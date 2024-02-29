@@ -22,8 +22,8 @@ class _DndDemoViewState extends State<DndDemoView> {
       ),
 
       /// 以下の2パターンで実装しているので、それぞれコメントアウトを外して確認してください
-      // body: _body(),
-      body: _body2(),
+      body: _body(),
+      // body: _body2(),
     );
   }
 
